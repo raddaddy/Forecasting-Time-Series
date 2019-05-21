@@ -5,7 +5,7 @@ This is an R Markdown file that automates various operations on time series data
 
 ## Framework
 1) Stationary (Augmented Dickey-Fuller test)
-2) Norma (Shapiro test)
+2) Normal (Shapiro test)
 3) White Noise (Box-Ljung test)
 4) Strict White Noise
 5) Gaussian White Noise
