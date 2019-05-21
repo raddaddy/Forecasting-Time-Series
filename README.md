@@ -4,12 +4,9 @@
 This is an R Markdown file that automates various operations on time series data to analyze certain characteristics (stationary, normal distribution, white noise, strict white noise, Gaussian white noise, linear dependencies, non-linear dependencies, and required transformations). This code performs the operations serially on several different series of data.
 
 ## Framework
-1) Stationary
-- Formal test: Augmented Dickey-Fuller
-2) Normal
-- Formal test: Shapiro
-3) White Noise
-- Formal test: Box-Ljung
+1) Stationary (Augmented Dickey-Fuller test)
+2) Norma (Shapiro test)
+3) White Noise (Box-Ljung test)
 4) Strict White Noise
 5) Gaussian White Noise
 6) Linear model
